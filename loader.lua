@@ -3,8 +3,7 @@
     LaxissTM v3 — Ultimate Edition
     Game          : Legends of Speed
     Type          : Full-feature script hub
-    Executors     : Synapse X, KRNL, Fluxus, Delta, Solara, Xeno, Wave,
-                    MacSploit, AWP, Codex, Opiumware, Vega X, Velocity
+    Executors     : Arceus X Delta Codex
     Dependencies  : None. Custom UI. No key system. Single paste.
 ================================================================================
     FEATURE MAP
